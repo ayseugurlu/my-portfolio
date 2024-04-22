@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #212A34;
+    color: white;
+    width: 100vw;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logo{
+    
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 5px;
+    
+}
